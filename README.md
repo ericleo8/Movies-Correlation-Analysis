@@ -19,8 +19,22 @@ There are 6820 movies in the dataset (220 movies per year, 1986-2016). Each movi
 - votes: number of user votes
 - star: main actor/actress
 - writer: writer of the movie
-
 - year: year of release
 
 ### Acknowledgements
 This data was scraped from IMDb.
+
+### Project Overview
+
+### Tools & Technique Used
+In this analysis, I leveraged the power of Python for data exploration, data cleaning, and data analysis. Additionally, I utilized Tableau for data visualization. Tableau is a platform to create visually appealing and interactive visualizations that help uncover patterns, trends, and key insights from the data. The visualizations provide a clear and intuitive representation of the analysis findings.
+
+### Project Goals
+
+### Data Exploration
+The data exploration phase involved examining the dataset to understand its structure, contents, and any potential issues or inconsistencies. I used Python to perform initial data exploration tasks, such as:
+
+- Reviewing the dimensions and structure of the dataset.
+- Identifying missing values or inconsistencies.
+- Investigating relationships between variables.
+
