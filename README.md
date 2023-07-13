@@ -38,3 +38,10 @@ The data exploration phase involved examining the dataset to understand its stru
 - Identifying missing values or inconsistencies.
 - Investigating relationships between variables.
 
+### Data Cleaning
+I performed several tasks to clean and preprocess the data, including:
+
+- Handling missing values by imputation or removal, depending on the specific context.
+- Removing duplicate records to avoid redundancy.
+- Standardizing formats and correcting inconsistencies in variables, such as released column.
+- Transforming variables as needed to align with the analysis objectives.
