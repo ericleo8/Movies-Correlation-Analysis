@@ -30,6 +30,11 @@ This data was scraped from IMDb.
 In this analysis, I leveraged the power of Python for data exploration, data cleaning, and data analysis. Additionally, I utilized Tableau for data visualization. Tableau is a platform to create visually appealing and interactive visualizations that help uncover patterns, trends, and key insights from the data. The visualizations provide a clear and intuitive representation of the analysis findings.
 
 ### Project Goals
+The primary goal of this repository is to explore and analyze the Movies Dataset to gain insights into the industry. Through data analysis and visualization techniques, we aim to answer various questions such as:
+
+- Analyze the box office performance of movies based on their budget, gross revenue, and profitability.
+- Identify the most successful movies in terms of revenue or return on investment (ROI).
+- Analyze the influence of directors and actors on movie success.
 
 ### Data Exploration
 The data exploration phase involved examining the dataset to understand its structure, contents, and any potential issues or inconsistencies. I used Python to perform initial data exploration tasks, such as:
