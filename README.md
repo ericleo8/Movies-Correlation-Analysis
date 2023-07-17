@@ -38,6 +38,7 @@ The primary goal of this repository is to explore and analyze the Movies Dataset
 - What movies have the highest budget?
 - How many movies each country produced?
 - What companies made the most of movies?
+- Who are the most popular and voted Directors?
 
 ### Data Exploration
 The data exploration phase involved examining the dataset to understand its structure, contents, and any potential issues or inconsistencies. I used Python to perform initial data exploration tasks, such as:
