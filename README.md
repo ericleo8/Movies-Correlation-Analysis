@@ -54,3 +54,21 @@ I performed several tasks to clean and preprocess the data, including:
 - Removing duplicate records to avoid redundancy.
 - Standardizing formats and correcting inconsistencies in variables, such as released column.
 - Transforming variables as needed to align with the analysis objectives.
+
+### Data Visualization 
+The visualizations provide a clear representation of the key insights and make it easier to understand and interpret the data.
+
+See the dashboard, click [here](https://public.tableau.com/app/profile/eric.leonardo/viz/MoviesDashboard_16892344049690/MoviesDashboard).
+
+***
+
+## Key Findings 
+
+Through the analysis of Glassdoor's data science job postings dataset, several key findings were uncovered. We can see that:
+
+- Comedy films are the most made films from 1980 until 2020
+- There are 3 movies that are most often made every year namely comedy, action and drama.
+- A Polish Vampire in Burbank is the most successful movie based on its ROI: 26,166% with budget only 3,000 and made over 78,000,000 on gross
+- Avengers: Endgame is the most top highest budget with $356,000,000. If you ever watch this one, it has amazing CGI effect so I have no doubt about it why it has to be the highest one.
+- United States produced most of the movies with 5475 movies
+- Universal Pictures made the most 
