@@ -39,6 +39,7 @@ The primary goal of this repository is to explore and analyze the Movies Dataset
 - How many movies each country produced?
 - What companies made the most of movies?
 - Who are the most popular and voted Directors?
+- Which correlation is the highest to each other?
 
 ### Data Exploration
 The data exploration phase involved examining the dataset to understand its structure, contents, and any potential issues or inconsistencies. I used Python to perform initial data exploration tasks, such as:
@@ -72,4 +73,5 @@ Through the analysis of Movies dataset, several key findings were uncovered. We 
 - Avengers: Endgame is the most top highest budget with $356,000,000. If you ever watch this one, it has amazing CGI effect so I have no doubt about it why it has to be the highest one.
 - United States produced most of the movies with 5475 movies
 - Universal Pictures made the most of the movies.
-- Stsven Spielberg is the popular director.
+- Steven Spielberg is the popular director.
+- Votes and Gross are the 2 variables that have the highest correlation to Budget
