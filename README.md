@@ -61,9 +61,12 @@ The visualizations provide a clear representation of the key insights and make i
 
 See the dashboard, click [here](https://public.tableau.com/app/profile/eric.leonardo/viz/MoviesDashboard_16892344049690/MoviesDashboard).
 
+![Movies Dashboard](https://github.com/ericleo8/Movies-Correlation-Analysis/assets/96973852/8b0e879a-613d-4ef5-8863-e821efa68064)
+
 ***
 
 ## Key Findings 
+
 
 Through the analysis of Movies dataset, several key findings were uncovered. We can see that:
 
